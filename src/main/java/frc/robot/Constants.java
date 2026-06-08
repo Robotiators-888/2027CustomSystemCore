@@ -4,11 +4,6 @@
 
 package frc.robot;
 
-import org.wpilib.math.geometry.Rotation3d;
-import org.wpilib.math.geometry.Transform3d;
-import org.wpilib.math.util.Units;
-import org.wpilib.driverstation.DriverStation;
-
 /**
  * The Constants class provides a convenient place for teams to hold robot-wide numerical or boolean
  * constants. This class should not be used for any other purpose. All constants should be declared
